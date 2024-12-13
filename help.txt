@@ -1,7 +1,1 @@
-step1 : git init
 
-step2: git add (name file and formate file)
-
-step3: git commit -m "informashion as change file..." of course in ot ""
-
-step4: 
